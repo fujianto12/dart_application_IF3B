@@ -1,5 +1,5 @@
 import 'package:dart_aplication_if3b/dart_aplication_if3b.dart' as dart_aplication_if3b;
 
 void main(List<String> arguments) {
-  print('Hello world: ${dart_aplication_if3b.calculate()}!');
+  print('Hello everyone');
 }
